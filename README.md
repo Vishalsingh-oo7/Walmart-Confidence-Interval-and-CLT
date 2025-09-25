@@ -76,12 +76,4 @@ Walmart wants to understand if **spending habits differ between male and female 
 
 ---
 
-## 📂 Project Structure
-
-Walmart_Case_Study_Scaler.ipynb  # Jupyter Notebook with EDA, CI & CLT analysis
-Walmart.csv                       # Dataset (Google Drive link used in notebook)
-README.md                         # Project documentation
-
-
----
 
